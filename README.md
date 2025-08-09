@@ -20,3 +20,6 @@ A responsive and clean front-end landing page for a digital workshop or marketin
 
 ## 📁 Folder Structure
 
+## 🎥 Preview Video
+
+[📹 Watch the demo video](./images/WhatsApp%20Video%202025-08-09%20at%2017.03.47_01cd27b2.mp4)
